@@ -6,7 +6,7 @@ Custom icons, made with care.
 For their *framed* counterparts, see [Clean Framed](https://github.com/PhoenixWyllow/MacroDeckCleanFramedIcons)
 
 ### Want more icons?
-Send me a Pull Request!
+[Send me a Request!](https://github.com/PhoenixWyllow/MacroDeckCleanFramelessIcons/issues/new?assignees=&labels=enhancement&template=icon-request.md&title=%5BICON+REQUEST%5D)
 
 I'm looking to add more icons, but with work and life, I can only spend time making what you might want.
 
